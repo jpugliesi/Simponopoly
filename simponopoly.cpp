@@ -208,7 +208,7 @@ void printInstructions(){
 int getTurnOption(){
 
 	char x;
-	std::cout << "Ready to continue? " << std::endl;
+	std::cout << "Ready to continue (y/n)? " << std::endl;
 
 	do{
 
